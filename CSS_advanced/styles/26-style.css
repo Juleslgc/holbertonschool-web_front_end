@@ -147,12 +147,12 @@ a:active {
 }
 .card-testimonial .card-avatar {
     border-radius: 50%;
-    width: 5rem;
-    height: 5rem;
+    width: 10rem;
+    height: 10rem;
 }
 .card-testimonial .card-quote cite {
     display: block;
-    padding-top: 0.5rem;
+    padding-top: 1rem;
     color: var(--color-primary);
 }
 .container {
