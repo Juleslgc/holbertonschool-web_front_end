@@ -31,10 +31,10 @@ body {
 }
 a {
     color: var(--text-color);
-    text-decoration: None;
+    text-decoration: none;
 }
 .visually-hidden {
-    display: None;
+    display: none;
 }
 .card-category, .section-tagline{
     color: var(--color-primary);
